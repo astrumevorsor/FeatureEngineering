@@ -1,4 +1,4 @@
-# FeatureEngineering
+# Feature Engineering
 
 Feature engineering occurs after data collection and preprocessing. 
 
